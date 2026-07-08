@@ -1,10 +1,10 @@
-# Hi there, I'm Nayan Parashar 👋
+# Hi, I'm Nayan Parashar 👋
 
 <div align="center">
 
 ### AI Researcher • Machine Learning Engineer • Competitive Programmer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Computer+Vision;Large+Language+Models;Robotics;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Computer+Vision;Large+Language+Models;Robotics;Building+Intelligent+Systems" />
 
 </div>
 
@@ -12,18 +12,26 @@
 
 ## 🚀 About Me
 
-I'm an undergraduate in **Mathematics & Computing at IIT (ISM) Dhanbad** with a strong interest in building intelligent systems that combine **Artificial Intelligence**, **Computer Vision**, **Robotics**, and **Large Language Models**.
+I'm an undergraduate in **Mathematics & Computing** at **IIT (ISM) Dhanbad**, passionate about developing intelligent systems at the intersection of **Artificial Intelligence**, **Computer Vision**, **Robotics**, and **Large Language Models**.
 
-I enjoy turning research ideas into practical systems—from multimodal AI applications to robotic perception—and I'm always exploring new ways to make AI more capable, reliable, and useful.
+My work spans both **research** and **engineering**—from robotic perception and multimodal learning to building production-oriented AI applications.
 
-### 🌱 Current Interests
+---
 
-* 🤖 Large Language Models
-* 👁️ Computer Vision
-* 🦾 Robotics & 3D Vision
-* 🎯 Generative AI
-* ⚡ AI Agents
-* 📚 Machine Learning Research
+## 🔬 Research
+
+* **Research Intern** — Center of Intelligent Robotics, IIIT Allahabad
+* **AAAI 2026 Oral Publication**
+
+### Research Interests
+
+* Large Language Models
+* Computer Vision
+* Vision-Language Models
+* Robotics & Robot Learning
+* 3D Vision
+* Multimodal AI
+* Generative AI
 
 ---
 
@@ -31,25 +39,24 @@ I enjoy turning research ideas into practical systems—from multimodal AI appli
 
 ## 🎤 Multimodal AI Interview Platform
 
-An end-to-end AI interviewer that conducts personalized technical interviews using Large Language Models.
+An intelligent interview platform that conducts personalized technical interviews using Large Language Models.
 
-The platform understands resumes and job descriptions, creates adaptive interview plans, asks intelligent follow-up questions, evaluates candidate responses, and generates structured interview reports.
+The system analyzes resumes and job descriptions, generates adaptive interview plans, asks contextual follow-up questions, evaluates candidate responses, and produces structured interview reports.
 
 ### Features
 
-* Resume Parsing
-* Job Description Understanding
+* Resume & Job Description Understanding
 * Personalized Interview Planning
 * Adaptive Question Generation
 * Candidate Evaluation
-* Structured Reports
-* Modular LLM Architecture
+* Structured Feedback Reports
+* Modular LLM Pipeline
 
 **Tech Stack**
 
-`Python` `LangChain` `Pydantic` `FastAPI` `Groq API` `LLMs`
+`Python` • `LangChain` • `Pydantic` • `FastAPI` • `Groq API` • `LLMs`
 
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/coder-nayan07/Multimodal-AI-Interviewer
 
@@ -57,13 +64,13 @@ https://github.com/coder-nayan07/Multimodal-AI-Interviewer
 
 ## 🤖 GRIM — Generative Robotic Manipulation
 
-Research project focused on intelligent robotic grasping through the combination of computer vision, 3D perception, and modern generative AI.
+Research project focused on task-oriented robotic grasping through the integration of computer vision, 3D perception, and generative AI.
 
-Developed during my research internship, GRIM explores task-oriented robotic manipulation using point clouds, perception, and learning-based grasp generation.
+Developed during my research internship, GRIM explores intelligent robotic manipulation using point clouds, perception, and learning-based grasp generation.
 
 ### Highlights
 
-* Task-Oriented Grasping
+* Task-Oriented Robotic Grasping
 * Point Cloud Processing
 * 3D Computer Vision
 * Robot Perception
@@ -71,30 +78,15 @@ Developed during my research internship, GRIM explores task-oriented robotic man
 
 **Tech Stack**
 
-`PyTorch` `Open3D` `NumPy` `Computer Vision` `Robotics`
+`PyTorch` • `Open3D` • `NumPy` • `Computer Vision` • `Robotics`
 
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/coder-nayan07/GRIM_
 
 ---
 
-# 🔬 Research
-
-* Research Intern — **Center of Intelligent Robotics, IIIT Allahabad**
-* Paper accepted at **AAAI 2026 (Oral Presentation)**
-
-Research Areas:
-
-* Robotic Manipulation
-* 3D Vision
-* Computer Vision
-* Vision-Language Models
-* Generative AI
-
----
-
-# 💻 Tech Stack
+## 💻 Technical Skills
 
 ### Languages
 
@@ -124,8 +116,8 @@ Research Areas:
 * LangChain
 * Prompt Engineering
 * AI Agents
-* Groq API
 * Hugging Face
+* Groq API
 
 ### Tools
 
@@ -137,7 +129,7 @@ Research Areas:
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 * 🏅 AAAI 2026 Oral Publication
 * 🥈 Top 2% — Amazon ML Challenge 2025
@@ -148,61 +140,48 @@ Research Areas:
 
 ---
 
-# 📈 Competitive Programming
+## 🌱 Currently Exploring
 
-I enjoy solving challenging algorithmic problems and continuously improving my problem-solving skills.
-
-Topics I particularly enjoy:
-
-* Dynamic Programming
-* Graph Algorithms
-* Trees
-* Data Structures
-* Binary Search
-* Greedy Algorithms
-
----
-
-# 🌱 Currently Learning
-
-* Multimodal Foundation Models
+* Agentic AI Systems
 * Reinforcement Learning for LLMs
-* AI Agents
+* Multimodal Foundation Models
 * Diffusion Models
-* Robotics
+* Robot Learning
 * Distributed AI Systems
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=coder-nayan07&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=coder-nayan07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nayan07&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-nayan07&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=coder-nayan07&theme=github-dark&hide_border=true"/>
+<div align="center">
 
-</p>
+<img width="70%" src="https://streak-stats.demolab.com?user=coder-nayan07&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-📧 Email
+📧 **Email**
 
 **[nayanparashar1@gmail.com](mailto:nayanparashar1@gmail.com)**
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/nayan-parashar
 
-💻 GitHub
+💻 **GitHub**
 
 https://github.com/coder-nayan07
 
@@ -210,8 +189,8 @@ https://github.com/coder-nayan07
 
 <div align="center">
 
-### *Building intelligent systems at the intersection of AI, Robotics, and Computer Vision.*
+### Building intelligent systems through research, engineering, and curiosity.
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for stopping by!
 
 </div>
