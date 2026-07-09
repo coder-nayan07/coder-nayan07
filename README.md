@@ -62,7 +62,7 @@ https://github.com/coder-nayan07/Multimodal-AI-Interviewer
 
 ---
 
-## 🤖 GRIM — Generative Robotic Manipulation
+## 🤖 GRIM — Task-Oriented Grasping with Conditioning on Generative Examples 
 
 Research project focused on task-oriented robotic grasping through the integration of computer vision, 3D perception, and generative AI.
 
@@ -74,7 +74,7 @@ Developed during my research internship, GRIM explores intelligent robotic manip
 * Point Cloud Processing
 * 3D Computer Vision
 * Robot Perception
-* Manipulation Planning
+  
 
 **Tech Stack**
 
