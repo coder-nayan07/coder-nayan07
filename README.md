@@ -20,6 +20,7 @@ My work spans both **research** and **engineering**—from robotic perception an
 
 ## 🔬 Research
 
+* **Research Intern** — MARMOT Lab, National University Singapore
 * **Research Intern** — Center of Intelligent Robotics, IIIT Allahabad
 * **AAAI 2026 Oral Publication**
 
@@ -28,6 +29,7 @@ My work spans both **research** and **engineering**—from robotic perception an
 * Large Language Models
 * Computer Vision
 * Vision-Language Models
+* Vision-Language-Action Models
 * Robotics & Robot Learning
 * 3D Vision
 * Multimodal AI
