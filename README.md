@@ -20,7 +20,7 @@ My work spans both **research** and **engineering**—from robotic perception an
 
 ## 🔬 Research
 
-* **Research Intern** — MARMOT Lab, National University Singapore
+* **Research Intern** — MARMot Lab, National University Singapore
 * **Research Intern** — Center of Intelligent Robotics, IIIT Allahabad
 * **AAAI 2026 Oral Publication**
 
